@@ -239,8 +239,8 @@ a {
 
 .but-box a {
     display: block;
-    margin: 0px; 
-    padding: 0px;
+    /* margin: 0px; 
+    padding: 0px; */
     padding-top: 12px;
     font-size: 16px;
     line-height: 26px;
