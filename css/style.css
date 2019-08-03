@@ -85,7 +85,8 @@ a {
  
 .section-title {
     margin:0;
-    margin-bottom: 120px;
+    padding: 0px;
+    margin-bottom: 126px;
     font-size: 48px;
     line-height: 32px;
     color: #515151;
@@ -96,7 +97,7 @@ a {
 
 .section-title::after {
     display: block;
-    margin: 26px auto;
+    margin: 0px auto;
     width: 164px;
     height: 8px;
     content: " ";
