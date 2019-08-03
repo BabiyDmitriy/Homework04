@@ -97,7 +97,7 @@ a {
 
 .section-title::after {
     display: block;
-    margin: 32px 480px 82px 470px;
+    margin: 32px 480px 84px 470px;
     width: 164px;
     height: 8px;
     content: " ";
