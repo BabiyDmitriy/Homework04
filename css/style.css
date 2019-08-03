@@ -80,11 +80,11 @@ a {
 /* Nection gallery */
 
 .gallery {
-    padding-bottom: 94px
+    padding-bottom: 104px
 }
  
 .section-title {
-    margin:0;
+    margin:0px;
     padding: 0px;
     margin-bottom: 126px;
     font-size: 48px;
@@ -97,7 +97,7 @@ a {
 
 .section-title::after {
     display: block;
-    margin: 0px auto;
+    margin: 32px 480px 82px 470px;
     width: 164px;
     height: 8px;
     content: " ";
